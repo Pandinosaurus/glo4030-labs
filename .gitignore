@@ -112,3 +112,8 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/python
+
+# Various logging
+lightning_logs/
+glo4030-labo9/
+wandb/

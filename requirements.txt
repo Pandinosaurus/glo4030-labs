@@ -13,3 +13,8 @@ Pillow
 poutyne
 einops
 transformers[torch]
+lightning
+torchshow
+torchinfo
+wandb
+nbformat
