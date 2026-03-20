@@ -56,6 +56,7 @@ Vous pouvez accéder aux laboratoires avec Google Colab à partir des liens suiv
 - [Laboratoire 6](https://colab.research.google.com/github/ulaval-damas/glo4030-labs/blob/master/Laboratoire%206.ipynb)
 - [Laboratoire 7](https://colab.research.google.com/github/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
 - [Laboratoire 8](https://colab.research.google.com/github/ulaval-damas/glo4030-labs/blob/master/Laboratoire%208.ipynb)
+- [Laboratoire 9](https://colab.research.google.com/github/ulaval-damas/glo4030-labs/blob/master/Laboratoire%209.ipynb)
 
 ## Installation locale
 
